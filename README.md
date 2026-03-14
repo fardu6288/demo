@@ -1,6 +1,9 @@
 # demo
-<<<<<<< Updated upstream
+main23
+Updated upstream
 #uplow
-=======
+
 #uplowhhh
->>>>>>> Stashed changes
+Stashed changes
+#uplowh
+ main
